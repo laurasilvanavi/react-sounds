@@ -39,7 +39,7 @@ function App() {
     <ThemeProvider theme={theme}>
       <div className="App">
         <AppBar className="Bar" color="secondary" enableColorOnDark position="static">
-          <h1 className="BarText">My instrument</h1>
+          <h1 className="BarText">Catiano</h1>
         </AppBar>
         <Instrument></Instrument>
       </div>
